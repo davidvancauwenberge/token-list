@@ -44490,6 +44490,7 @@
         "website": "https://kininu.com"
       }
     },
+<<<<<<< HEAD
 {
       "chainId": 101,
       "address": "CdknVzV1hRYh3xUZDDVv97tuzXUnP4ZR5rbKsHSbv5FJ",
@@ -44504,7 +44505,80 @@
 	"website": "https://vloes.eu"
 
       }
+=======
+    {
+      "chainId": 101,
+      "address": "AWqBvorwthhaV2CTmzzu7FehKAdce6iTczsKKcqEBggZ",
+      "symbol": "HUAT",
+      "name": "Huat Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ericxgx/crypto/main/logo.jpg",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 103,
+      "address": "4j5bhHvAyTzLih5WCRvsVpuyZa2KiXaiixporbEqb1Cy",
+      "symbol": "LST",
+      "name": "Last Supper Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/svenrobbie/cryptosol/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "84kqep5DBSYXCev2AmTxVNeoTCSXW2vdPr7xpCif3DuE",
+      "symbol": "IAN",
+      "name": "Ian Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ianridsdill/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://ianridsdill.ca"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7fLNbYHSu6fDPvEMqww7VgJ76PBxnJjkgdXjCGv5fQCA",
+      "symbol": "UTOC",
+      "name": "Utopolis Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Utopolis/Blockchain_logo/main/utopolis_logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "4hBZG7N8DEp1WKHfCvcVd3CtEkvMkXnGNhNYzZiopCHw",
+      "symbol": "ROMC",
+      "name": "ROM Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Utopolis/Blockchain_logo/main/romestant.png",
+      "tags": [
+        "social-token"
+      ]
+>>>>>>> b27dd6ea73bac2a8b1e4bb7ed5f788e381de10df
     }
+{
+  "chainId": 101,
+  "address": "CdknVzV1hRYh3xUZDDVv97tuzXUnP4ZR5rbKsHSbv5FJ",
+  "symbol": "18+",
+  "name": "VLOES",
+  "decimals": 3,
+  "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CdknVzV1hRYh3xUZDDVv97tuzXUnP4ZR5rbKsHSbv5FJ/logo.svg",
+  "tags": [
+    "social-token",
+  ],
+  "extensions": {
+    "website": "https://vloes.eu"
+  }
+}
 
   ],
   "version": {
